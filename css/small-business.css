@@ -2,8 +2,18 @@
  * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+
  */
 
+ @font-face {
+	font-family: indieflowerimport;
+	src: url("indieflower.ttf");
+	}
+
+a {
+	color: #740023;
+	}
+	
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
@@ -44,3 +54,16 @@ ol{
     font-weight: bold;
 	margin:0 5px 0 -15px;	
 }
+
+
+
+h1{
+	Color: #740023;
+	font-family: "indieflowerimport";	
+	}
+
+
+h2{
+	Color: #740023;
+	font-family: "indieflowerimport";		
+	}

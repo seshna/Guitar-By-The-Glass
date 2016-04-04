@@ -44,6 +44,7 @@ template {
   display: none;
 }
 a {
+  color: #740023;
   background-color: transparent;
 }
 a:active,
